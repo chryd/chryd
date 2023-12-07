@@ -1,7 +1,7 @@
 👋 Hi, I’m Christine
 
 <b align="left">About me:</b>
-- 👀 I’m interested in design, gaming, math, philosophy, psychology, human-computer interaction and AI ethics.
+- 👀 I’m interested in software design, gaming, math, philosophy, psychology, human-computer interaction and AI ethics.
 - 💞️ I’m looking to collaborate on any creative project!
 - 📫 How to reach me: chri.yangdai@gmail.com
 
