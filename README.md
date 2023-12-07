@@ -1,4 +1,4 @@
-👋 Hi, I’m Christine
+Hi, I’m Christine ✨
 
 <b align="left">About me:</b>
 - 👀 I’m interested in software design, gaming, math, philosophy, psychology, human-computer interaction and AI ethics.
