@@ -28,7 +28,7 @@ Hello! 👋 I'm Christine, a software enthusiast with a passion for design, gami
 
 Explore my repositories for a mix of code snippets, experiments, and more. Feel free to contribute or share your feedback!
 
-### 🌐 Connect
+//### 🌐 Connect
 
-- [**LinkedIn**](#) *(Coming Soon!)*
-- [**Twitter**](#)
+//- [**LinkedIn**](#) *(Coming Soon!)*
+//- [**Twitter**](#)
